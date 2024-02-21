@@ -1,0 +1,34 @@
+Serval Communication
+Papallel Communication
+8 bit daba is tranford One bit at a time(serial)
+8 bit data is transfered the same time(parallel)
+
+LSB - Least dignificance bit
+MSB - Most Significance bit
+
+Serial data Communication use two methods.
+* Synchronous clock is transmitted with data
+* Asynchronous no clock transmitted. Transmitter & receiver agree on clock Speed for data transmithion. (Baudrate)
+Simplex
+Data can be transmitied only an received only.
+- one direction only
+eg: FM
+
+Half duplex
+Data can be transmitted in only one way at a time
+Transmitter - Transmitter
+Receiver - receiver
+
+Full duplex
+Data can be transmitted in both ways.
+eg:UART
+
+→In arynchronous transmission, each byte (character) is packed between start and stop bite
+
+In UART-it (stop bit) can be a bit, 1 bit or 1/2 bit
+
+→ Baudrate
+connection speed expereused in bets per second
+
+UART
+After initialize we will go for Receive or send
