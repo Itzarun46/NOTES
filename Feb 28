@@ -1,0 +1,68 @@
+ARM
+
+electronic Gadgets
+
+ARM
+
+Before ARM introduce we have CICS
+
+Cles ARM
+
+load and store These & instructions only work in memory other instructions all work in Registers.
+
+Some file
+
+• C
+
+.i
+
+•S assembly
+
+.elf
+
+Secondary memory saves the saved codes.. when the code is send from secondary memory to primary
+ => For one set architecture neraiya microarchitecture inukum.
+
+Arm is not a chip manufacturing company" design
+
+
+Family can have multiple architecture for that can have multiple processor.
+
+ARM architecture specifier
+
+Multiple processor
+
+Instruction set
+
+Register set
+
+interrupt
+
+Exception model
+
+Memory model
+
+Debug, Trace and profilines
+
+float point
+
+
+RISC- Reduced instruction set computer
+
+simple instructions
+
+simple Addressing modes
+
+Load store Architecture
+
+Big Endian and little Endian
+
+Mioro architecture
+
+build and design of a processor
+
+Number and sizes of cache
+
+cycle court for individual instructions
+
+which optional feature are implemented
