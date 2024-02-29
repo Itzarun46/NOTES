@@ -1,0 +1,15 @@
+SHELL SCRIPT shell- is a program A shell script is a textfile containing a series of commands that are interpreted and executed by a shell program. shell scripts are used to automate tasks, execute commands or perform various oprations within the linux environment.
+
+mkdir folder name 
+vim filename.sh 
+#!/bin/bash 
+echo "Rathinam Technical Campus"
+ exit 0 
+chmod 777 filename.sh 
+./filename.sh
+
+Library--->system call--->kernel it will acess the kernel PROCESS CREATION system()-->Library function fork()-->system call wait()-->system call ----->its all call the clone for execution waitpid()-->system call exec()-->system call clone()-->clone system call
+
+wait and waitpid is used avoid zombie process. to see the content inside folder we use "ls -al" By using System library we can run the bash command. there are 9 man pages available.
+
+Fork creates a new process then the new process is referred to us child process, the calling is called the parent process, both child and parent process have separate memory.
