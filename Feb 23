@@ -1,0 +1,15 @@
+GNU->GNU's not unix oss -> source code is free, can modify red hat----networking,administration purpose stream os fedora----education purpose
+
+Linux is monolithic kernel, not an os
+
+ancy @ ancy: ~ $ username hostname path
+
+two types of path
+
+relative path --> :$CD../D1/D2/D3 ---> :$CD . /D1/D2/D3
+absolute path ---> from root to folde is called absolute path
+COMMANDS sudo apt -get install tree tree>treee-file vim tree-file rm tree-file rm-rf --->recursive forceful ls -l ls -la ----->hidden files which ls which cd CD -----> it is internal command ls -----> it is external command No manual page for internal commands
+
+man ls ---> man command is used to read the ls command details man man man hier type cd type ls help cd
+
+sudo su p(w) exit ls cd rtc tree tree>tree-file vim tree-files --->convert all to files
