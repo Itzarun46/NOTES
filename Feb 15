@@ -1,0 +1,22 @@
+GPIO have 7 memory space and address, that memory space is called Registers.
+
+REGISTERS
+
+MODER
+OTYPER
+OSPEEDER
+PUPDR
+IDR
+ODR
+BSRR
+LCKR
+AFRL
+AFRH
+
+GPIOA base address will be -> 0x40020000 When we know the base address of GPIOA and we know the offset 0x00 then we can know the place.
+
+MODER register base address + offset : 0x00
+
+OTYPER register base address + offset : 0x04
+
+pheripheral base 40020000 offset 20000 base address 40000000 pheripheral base (pheriph base + AHBIperiph_offset) (GPIO_OFFSET = 0x0000UL)
